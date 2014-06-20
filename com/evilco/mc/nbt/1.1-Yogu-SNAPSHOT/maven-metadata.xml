@@ -2,23 +2,23 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.evilco.mc</groupId>
   <artifactId>nbt</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1-Yogu-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20140620.221443</timestamp>
+      <timestamp>20140620.221931</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20140620221443</lastUpdated>
+    <lastUpdated>20140620221931</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.1-20140620.221443-1</value>
-        <updated>20140620221443</updated>
+        <value>1.1-Yogu-20140620.221931-1</value>
+        <updated>20140620221931</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.1-20140620.221443-1</value>
-        <updated>20140620221443</updated>
+        <value>1.1-Yogu-20140620.221931-1</value>
+        <updated>20140620221931</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
